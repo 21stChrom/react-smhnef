@@ -1,4 +1,4 @@
-import react from 'react'
+import react from 'react';
 
 <script src="https://unpkg.com/react@16/umd/react.production.min.js"></script>
 <script src="https://unpkg.com/react-dom@16/umd/react-dom.production.min.js"></script>
